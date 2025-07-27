@@ -1,5 +1,5 @@
 # 💫 About Me:
-### Hi there 👋, my name is Madhab Mozumder!
+### Hi there 👋, This is Madhab Mozumder!
 ![](https://i.ibb.co.com/JQMQ4Gb/18697.jpg)
  I'm a passionate Junior Web Developer skilled in building interactive web applications with React, Node.js, MongoDB, and Express, or Basic Next.js. With hands-on experience in full-stack development, I’m always eager to take on new challenges and learn advanced technologies. My strengths include creating smooth front-end interfaces and scalable  solutions that provide great user experiences.
 
